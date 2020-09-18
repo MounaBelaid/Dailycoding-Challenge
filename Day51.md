@@ -16,23 +16,23 @@ Happy Coding Learning !
 ``` r
  #Arithmetic Operators
 x <- 7
-y<-18
-x+y
-x*y
-y/x 
+y <- 18
+x + y
+x * y
+y / x 
 y%/%x
 y%%x
 y^x
 #Relational operators
 x <- 7
-y<-18
-x<y
-y>=20
+y <- 18
+x < y
+y >= 20
 x != 5
 #On vectors:
 x <- c(2,8,3)
 y <- c(6,4,1)
-x+y
+x + y
 x>y
 #logical Operators 
 x <- c(TRUE,FALSE,0,7)
